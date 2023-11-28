@@ -1,0 +1,33 @@
+Compilador de lenguaje c++ hecho en python 3.9.4 -Version(2.5)
+
+Realizado por:
+	Cinta Manifcanio Miriam Alexandra
+	alecinta@hotmail.com
+	Franco Lara Zuriel Antonio
+	zuriellara25@gmail.com
+	Galván Blanco Brandon
+	braanblaanco_23@hotmail.com
+	Maldonado Bolaños Daniela Giselle
+	danmb001@gmail.com
+
+Fecha 1/Marzo/2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+Para el correcto funcionamiento es necesario que se encuentra instalado el programa:
+*MinWG
+
+Tambien es necesario que se modifiquen los directorios en los archivos:
+lar.py en el apartado RutaCPP=" " se modifica la linea ejemplo:
+RutaCPP="C:/Users/"usuario"/documents/CompiladorC/salida.o"
+por la nueva ubicacion donde se encuentre la carpeta consevando CompiladorC/salida.o
